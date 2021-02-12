@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "网易云专辑封面禁旋转"
